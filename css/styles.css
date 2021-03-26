@@ -396,6 +396,12 @@ h6, .h6 {
   font-weight: 300;
 }
 
+.lead-mandatory {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: purple;
+}
+
 .display-1 {
   font-size: 6rem;
   font-weight: 300;
@@ -10114,7 +10120,7 @@ h3 {
 .masthead {
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
-  background: url('../assets/img/motocross.jpeg') no-repeat center;
+  background: url('../assets/img/intro.jpeg') no-repeat center;
   background-size: cover;
 }
 .masthead .masthead-heading {
